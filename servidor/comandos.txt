@@ -1,0 +1,2 @@
+.\pocketbase.exe serve --publicDir ..\cliente   Como Cliente
+.\pocketbase.exe serve 

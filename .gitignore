@@ -1,0 +1,11 @@
+# Datos y binario de PocketBase (no se suben al repositorio)
+servidor/pb_data/
+servidor/pocketbase
+servidor/pocketbase.exe
+servidor/*.zip
+servidor/CHANGELOG.md
+servidor/LICENSE.md
+
+# Sistema
+.DS_Store
+Thumbs.db
